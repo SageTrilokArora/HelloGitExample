@@ -10,7 +10,8 @@ namespace HelloGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Git!");
+            // new comments
+            Console.WriteLine("Hello Git! new comments");
             Console.WriteLine("Modified");
             Console.ReadKey();
         }
