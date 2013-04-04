@@ -12,6 +12,7 @@ namespace HelloGit
         {
             // new comments
             Console.WriteLine("Hello Git! new comments");
+            Console.WriteLine("Today ");
             Console.WriteLine("Modified");
             Console.ReadKey();
         }
